@@ -1,5 +1,3 @@
-import styles from "./page.module.css";
-
 export default function Home() {
     const query = "/api/proxy?type=artist,song,key,code&num=500&query={query}";
 
