@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
